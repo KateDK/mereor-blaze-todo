@@ -1,1 +1,1 @@
-import '../imports/starter.js';
+import '../imports/ui/starter.js';
